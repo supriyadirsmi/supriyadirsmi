@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "supriyadiPortfolio",
-  "homepage": "https://supriyadisrmi.github.io/supriyadisrmi",
+  "homepage": "https://supriyadirsmi.github.io/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
