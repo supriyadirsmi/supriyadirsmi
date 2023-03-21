@@ -79,9 +79,9 @@ const skills = {
       title: "Front End Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building responsive website front end with optimized SEO and perfomance",
+        "⚡ Developing website application using modern libraries and frameworks",
+        "⚡ Integrating API from backend to make it optimized",
       ],
       softwareSkills: [
         {
@@ -99,10 +99,10 @@ const skills = {
           },
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
+          skillName: "Tailwind CSS",
+          fontAwesomeClassname: "simple-icons:tailwindcss",
           style: {
-            color: "#CC6699",
+            color: "#38bdf8",
           },
         },
         {
@@ -142,124 +142,71 @@ const skills = {
           },
         },
         {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
+          skillName: "NextJS",
+          fontAwesomeClassname: "skill-icons:nextjs-light",
           style: {
             color: "#663399",
           },
         },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
+      title: "Full Stack Development",
+      fileName: "FullStackImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
+        "I am also posses knowledge and experienced as full stack developer",
+        "⚡ Building full stack web applications with Laravel, Bootstrap, React, Inertia.js and MySQL",
+        "⚡ Managing Linux server (CentOS & Ubuntu) with LEMP Stack (Linux, Nginx, MySQL, PHP)",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
         {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
+          skillName: "PHP",
+          fontAwesomeClassname: "simple-icons:php",
           style: {
-            color: "#4285F4",
+            color: "#284354",
           },
         },
         {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
+          skillName: "Laravel",
+          fontAwesomeClassname: "simple-icons:laravel",
           style: {
-            color: "#FF9900",
+            color: "#ff3a2e",
           },
         },
         {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
+          skillName: "Bootstrap",
+          fontAwesomeClassname: "simple-icons:bootstrap",
           style: {
-            color: "#0089D6",
+            color: "563f7b",
           },
         },
         {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
+          skillName: "ReactJS",
+          fontAwesomeClassname: "simple-icons:react",
           style: {
-            color: "#FFCA28",
+            color: "#61DAFB",
           },
         },
         {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
           style: {
-            color: "#336791",
+            color: "",
           },
         },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
+          skillName: "Linux",
+          fontAwesomeClassname: "simple-icons:linux",
           style: {
-            color: "#47A248",
+            color: "",
           },
         },
         {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
+          skillName: "Virtual Machines",
+          fontAwesomeClassname: "grommet-icons:virtual-machine",
           style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
-          },
-        },
-      ],
-    },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
+            color: "",
           },
         },
       ],
@@ -477,37 +424,36 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
-          description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
+          title: "Front End Developer",
+          company: "Spurr (PT. Inspirasi Karya Bangsa) a Startup Company",
+          company_url: "https://www.gospurr.com/",
+          logo_path: "spurr_logo.svg",
+          duration: "May 2022 - March 2023",
+          location: "South Jakarta, DKI Jakarta",
+          description: `Spurr is the Start up that focused on digital tool that brings large enterprise customer loyalty management capabilities to small businesses. I have created revamped company profile websites for Spurr. I helped spurr to eliminate remaining bugs on the existing apps. And I have also migrate Spurr Loyalty Management Apps from jQuery to React and collaborated with the team to build new features.`,
+          color: "#00e900",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          title: "Full Stack Developer",
+          company: "PT. Buana Lintas Media",
+          company_url: "https://www.buanalintas.co.id/",
+          logo_path: "blm_logo.png",
+          duration: "Aug 2018 - May 2022",
+          location: "South Tangerang, Banten",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-          color: "#9b1578",
+            "Buana Lintas Media is the company that focused on Networking & IT Managed Services. I have Built web apps (Inventory, Warehouse, Ticketing, & KPI Dashboard System ) for clients with Laravel, Bootstrap, React, Inertia.js and MySQL. I have also managed Cloud Server to hosting the apps ",
+          color: "#009b9d",
         },
         {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
+          title: "Network Engineer and Network Operation Center (NOC)",
+          company: "PT. Buana Lintas Media",
+          company_url: "https://www.buanalintas.co.id/",
+          logo_path: "blm_logo.png",
+          duration: "Jul 2015 - Aug 2018",
+          location: "Solo, Central Java",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-          color: "#fc1f20",
+            "Before entered programming I worked as Network Engineer. I did On-Site and Remote network installation.I have also monitored network and handled customers as NOC",
+          color: "#009b9d",
         },
       ],
     },
@@ -515,38 +461,15 @@ const experience = {
       title: "Freelance",
       experiences: [
         {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
+          title: "Freelance Front End Developer",
+          company: "Global Multipro Technology",
+          company_url: "https://gmtgroup.co.id/",
+          logo_path: "gmt_logo.svg",
+          duration: "December 2022 - January 2023",
+          location: "South Tangerang, Banten",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
-          color: "#000000",
-        },
-        {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
-          description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-          color: "#ee3c26",
-        },
-        {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
-          description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-          color: "#0071C5",
+            "I transformed client's design from Figma to responsive company profile website.I optimized the website's performance and make it SEO friendly. I am also handled the website deployment and domain management",
+          color: "#FFFFFF",
         },
       ],
     },
