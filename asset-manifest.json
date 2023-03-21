@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.bdbdb3f1.chunk.css",
-    "main.js": "/static/js/main.ca5b5319.chunk.js",
-    "main.js.map": "/static/js/main.ca5b5319.chunk.js.map",
+    "main.js": "/static/js/main.2bc1a9c1.chunk.js",
+    "main.js.map": "/static/js/main.2bc1a9c1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3d0a49b7.js",
     "runtime-main.js.map": "/static/js/runtime-main.3d0a49b7.js.map",
-    "static/js/2.09af578c.chunk.js": "/static/js/2.09af578c.chunk.js",
-    "static/js/2.09af578c.chunk.js.map": "/static/js/2.09af578c.chunk.js.map",
+    "static/js/2.3f356ec2.chunk.js": "/static/js/2.3f356ec2.chunk.js",
+    "static/js/2.3f356ec2.chunk.js.map": "/static/js/2.3f356ec2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7c037f57f6f3a3e523ec4b8ebeae70cb.js": "/precache-manifest.7c037f57f6f3a3e523ec4b8ebeae70cb.js",
+    "precache-manifest.ca066f599bd78e5b28a1d8775699ef87.js": "/precache-manifest.ca066f599bd78e5b28a1d8775699ef87.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.bdbdb3f1.chunk.css.map": "/static/css/main.bdbdb3f1.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -30,6 +30,7 @@
     "static/media/fullstack.svg": "/static/media/fullstack.fce60807.svg",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.0ee7e8c9.png",
     "static/media/github_logo.png": "/static/media/github_logo.6eeb2e81.png",
+    "static/media/gmt_logo.svg": "/static/media/gmt_logo.360294a2.svg",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.a6addc3f.svg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.d3fccbe1.png",
@@ -45,6 +46,7 @@
     "static/media/programmer.svg": "/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/static/media/pwa.71408db7.png",
+    "static/media/spurr_logo.svg": "/static/media/spurr_logo.632b56a4.svg",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
@@ -53,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3d0a49b7.js",
-    "static/js/2.09af578c.chunk.js",
+    "static/js/2.3f356ec2.chunk.js",
     "static/css/main.bdbdb3f1.chunk.css",
-    "static/js/main.ca5b5319.chunk.js"
+    "static/js/main.2bc1a9c1.chunk.js"
   ]
 }
