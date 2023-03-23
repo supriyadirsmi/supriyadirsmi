@@ -25,7 +25,8 @@ const greeting = {
   nickname: "",
   subTitle:
     "Hello! 😀 I’m a passionate and quick learning Front End Developer with 1.5 years of experience building & maintaining projects. Also experienced as Full Stack Developer for 3 years.",
-  resumeLink: "#",
+  resumeLink:
+    "https://drive.google.com/file/d/1bipkAfNGpxyPuLdfeJOcGK3YcDXK1Y5S/view?usp=share_link",
   portfolio_repository:
     "https://github.com/supriyadirsmi/supriyadirsmi.github.io",
   githubProfile: "https://github.com/supriyadirsmi",
@@ -41,12 +42,6 @@ const socialMediaLinks = [
   // twitter: "https://twitter.com/ashutosh_1919",
   // instagram: "https://www.instagram.com/layman_brother/"
 
-  {
-    name: "Github",
-    link: "https://github.com/supriyadirsmi",
-    fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
-    backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
-  },
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/supriyadirsmi/",
@@ -70,6 +65,12 @@ const socialMediaLinks = [
     link: "https://www.instagram.com/supriyadi.rsmi/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  },
+  {
+    name: "Whatsapp",
+    link: "https://wa.me/+628970749272",
+    fontAwesomeIcon: "fa-whatsapp", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#25D366", // Reference https://simpleicons.org/?q=instagram
   },
 ];
 
@@ -540,9 +541,9 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "me.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on social media. If you need anything about Front End Development you can message me, I will reply within 24 hours.",
   },
   blogSection: {
     title: "Blogs",
@@ -553,8 +554,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+    subtitle: "Rawa Lele, Jombang, South Tangerang, Banten",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
