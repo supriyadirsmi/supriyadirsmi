@@ -1,64 +1,102 @@
 {
   "data": [
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
-      "isFork": false,
+      "id": "1",
+      "name": "Spurr Loyalty Management App",
+      "url": "https://drive.google.com/file/d/1v_M5MYG7PmKoZEP5Aywavg51T4CeaAQS/view?usp=share_link",
+      "description": "Spurr Loyalty Management App is an admin console for managing customer's loyalty. For this project, I helped to migrate the app from jQuery to React, Built new features and maintained it.",
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos:react"
+        },
+        {
+          "name": "React Router",
+          "iconifyClass": "logos:react-router"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "skill-icons:tailwindcss-light"
+        },
+        {
+          "name": "MUI",
+          "iconifyClass": "logos:material-ui"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Spurr Revamped Company Profile Website",
+      "url": "https://drive.google.com/file/d/1Al5-qY6EDT8_PAGkML7f7-LdXgRz-jPY/view?usp=share_link",
+      "description": "I was collaborated with UI/UX Team to built revamped company profile website using Wordpress & Elementor. I am also customized it with additional CSS and JavaScript.",
+      "languages": [
+        {
+          "name": "Wordpress",
+          "iconifyClass": "skill-icons:wordpress"
+        },
+        {
+          "name": "Elementor",
+          "iconifyClass": "simple-icons:elementor"
         },
         {
           "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "iconifyClass": "vscode-icons:file-type-css"
         },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "GMT Group Company Profile Website",
+      "url": "https://gmtgroup.co.id/",
+      "description": "I built company profile website for Global Multipro Technology (a lighting company) using modern libraries & frameworks. I helped with deployment process. I am also optimized the SEO and the website's performance speed.",
+      "languages": [
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "React",
+          "iconifyClass": "logos:react"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "skill-icons:tailwindcss-light"
+        },
+        {
+          "name": "Next JS",
+          "iconifyClass": "logos:nextjs-icon"
+        },
+        {
+          "name": "Framer Motion",
+          "iconifyClass": "tabler:brand-framer-motion"
         }
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
-      "isFork": false,
+      "id": "4",
+      "name": "PT. Isra Presisi Indonesia TBK Company Profile Website",
+      "url": "https://isra.co.id/id",
+      "description": "PT. Isra Presisi Indonesia TBK is a company focused on manufacture precision parts. I built this company profile website using wordpress and elementor. I implemented multi languages feature for this website. I am also helped with deployment process.",
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
-      "languages": [
+          "name": "Wordpress",
+          "iconifyClass": "skill-icons:wordpress"
+        },
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Elementor",
+          "iconifyClass": "simple-icons:elementor"
         },
         {
           "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "iconifyClass": "vscode-icons:file-type-css"
         },
         {
           "name": "JavaScript",
@@ -67,48 +105,50 @@
       ]
     },
     {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
+      "id": "5",
+      "name": "PT Aristo Satria Mandiri Indonesia Company Profile Website",
+      "url": "https://drive.google.com/file/d/1CGJdZzobnQkQ3ZuUBFJjlw0LaIqUrMMc/view?usp=share_link",
+      "description": "PT Aristo Satria Mandiri Indonesia is a company focused on manufacture precision parts. I built this company profile website using wordpress and elementor. I implemented multi languages feature for this website. I am also helped with deployment process.",
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
-      "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
-      "isFork": false,
-      "languages": [
+          "name": "Wordpress",
+          "iconifyClass": "skill-icons:wordpress"
+        },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Elementor",
+          "iconifyClass": "simple-icons:elementor"
         },
         {
           "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "iconifyClass": "vscode-icons:file-type-css"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "PT. Mega Dagang Internasional KPI Dashboard",
+      "url": "https://drive.google.com/file/d/1CKiSUSD52EF3cVpDujVdcT-N0-fJk-GB/view?usp=share_link",
+      "description": "PT. Mega Dagang Internasional is a company that focused on retail business. I built KPI Dashboard to monitoring statistic using React, Bootstrap, Inertia JS as Front End and Laravel as backend",
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos:react"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "mdi:bootstrap"
+        },
+        {
+          "name": "Inertia JS",
+          "iconifyClass": "tabler:brand-inertia"
+        },
+        {
+          "name": "Laravel",
+          "iconifyClass": "logos:laravel"
         }
       ]
     }

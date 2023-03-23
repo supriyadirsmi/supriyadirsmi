@@ -81,7 +81,7 @@ const skills = {
       skills: [
         "⚡ Building responsive website front end with optimized SEO and perfomance",
         "⚡ Developing website application using modern libraries and frameworks",
-        "⚡ Integrating API from backend to make it optimized",
+        "⚡ Integrating API from backend to the Front End",
       ],
       softwareSkills: [
         {
@@ -468,7 +468,7 @@ const experience = {
           duration: "December 2022 - January 2023",
           location: "South Tangerang, Banten",
           description:
-            "I transformed client's design from Figma to responsive company profile website.I optimized the website's performance and make it SEO friendly. I am also handled the website deployment and domain management",
+            "Global Multipro Technology is the company that focused on Lighting Installation and Services. I transformed client's design from Figma to responsive company profile website.I optimized the website's performance and make it SEO friendly. I am also handled the website deployment and domain management",
           color: "#FFFFFF",
         },
       ],
@@ -480,7 +480,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My Front End projects makes use of vast variety of technology tools. My best experience is to create new features and fixing bugs on Front End Apps eventually accelerate bug fixing process for the production needs.",
+    "My Front End projects makes use of vast variety of technology tools. My best experience is to help my company revamping, bulding new features and maintaining their projects. Click each project cards below for more details.",
   avatar_image_path: "projects_image.svg",
 };
 

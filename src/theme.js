@@ -1,3 +1,5 @@
+import { DarkTheme } from "baseui";
+
 // theme.js
 export const blueTheme = {
   body: "#EDF9FE",
