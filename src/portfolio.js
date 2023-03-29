@@ -466,7 +466,7 @@ const experience = {
           company: "Global Multipro Technology",
           company_url: "https://gmtgroup.co.id/",
           logo_path: "gmt_logo.svg",
-          duration: "December 2022 - January 2023",
+          duration: "December 2022",
           location: "South Tangerang, Banten",
           description:
             "Global Multipro Technology is the company that focused on Lighting Installation and Services. I transformed client's design from Figma to responsive company profile website.I optimized the website's performance and make it SEO friendly. I am also handled the website deployment and domain management",
